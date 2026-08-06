@@ -76,7 +76,6 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
   
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sfwnbaek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfwnbaek&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&theme=tokyonight&hide_border=true" />
 
 </div>
