@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e63946&height=220&section=header&text=Muhammad%20Safwan%20Rabe&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Software+Engineering+Graduate+%40+UTM;Full-Stack+Developer+(PHP+%26+JavaScript);Building+real+systems+that+solve+real+problems;Currently+exploring+Java+(Framework)+%2F+DevOps+%2F+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate+%40+UTM;Full-Stack+Developer+(PHP+%26+JavaScript);Building+real+systems+that+solve+real+problems;Currently+exploring+Java+(Framework)+%2F+DevOps+%2F+Python" alt="Typing SVG" />
 
 </div>
 
