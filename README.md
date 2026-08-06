@@ -1,30 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Safwan
-==============================================================================================================================
+<div align="center">
 
-(Software Student)
-------------------
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e63946&height=220&section=header&text=Muhammad%20Safwan%20Rabe&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50)
 
-Im just a kid from a small town
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Software+Engineering+Graduate+%40+UTM;Full-Stack+Developer+(PHP+%26+JavaScript);Building+real+systems+that+solve+real+problems;Currently+exploring+Web+Dev+%2F+DevOps+%2F+QA" alt="Typing SVG" />
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [msafwan564@gmail.com](mailto:msafwan564@gmail.com)
-* 🧠  I'm learning Software Engineering
-* ⚡  Im Batman
+</div>
 
-### Skills
+---
 
+### 👋 About Me
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+I'm a **Bachelor of Software Engineering (Hons)** graduate from **Universiti Teknologi Malaysia**, with a Diploma in Computer Science from **Universiti Malaysia Pahang**. Over the past 5+ years I've been building full-stack projects across the PHP and JavaScript ecosystems — from academic analytics platforms to airline crew scheduling prototypes.
 
+- 🎓 Graduating **UTM** — B. Software Engineering (Hons), GPA 3.46
+- ✈️ Recently interned at **Batik Air Malaysia**, building a full-stack Crew Scheduling System
+- 🥈 **Silver Medalist** — Malaysia Invention & Innovation Expo (MIIX) 2026
+- 🧭 Interested in **Web Development, DevOps, UI/UX & QA**
+- 🌱 Currently sharpening my skills in Laravel, React, and cloud deployment
+- ✉️ Reach me at **msafwan.pro@gmail.com**
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/sfwnbaek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.notion.so/Wan-s-Space-7184528f174f498cbeed252c9abc05e6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@muhammadsafwan3093" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+### 🛠️ Featured Projects
 
-### Badges
+<table>
+<tr>
+<td width="50%">
 
-<b>My GitHub Stats</b>
+**🎓 SPIN — Subject Progress Indicator**
+Academic analytics platform for Kolej Tingkatan 6 Tawau, replacing manual Excel tracking with real-time GPMP indicators, 4 role-based dashboards, and automated year-end roll-over.
+<br>`PHP` `SQL` `JavaScript` — 🥈 MIIX 2026 Silver Medal
 
-<a href="http://www.github.com/sfwnbaek"><img src="https://github-readme-stats.vercel.app/api?username=sfwnbaek&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="sfwnbaek's GitHub stats" /></a>
+</td>
+<td width="50%">
+
+**✈️ Crew Scheduling System — Batik Air**
+Full-stack MVC prototype with RESTful APIs replacing manual, spreadsheet-based airline crew rostering. Standby/duty tracking & fatigue analysis across two aircraft fleets.
+<br>`React` `Node.js` `Express` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💍 Wafina Wedding Planner**
+A private full-stack app to plan a wedding — and family life after it — around Malaysian Islamic customs, with automated financial and logistical planning.
+<br>`Laravel 13` `Livewire` `Tailwind` `SQLite` `Docker`
+
+</td>
+<td width="50%">
+
+**🌐 Personal Portfolio**
+A dark space/constellation-themed portfolio with a Frutiger Aero light mode, animated skills orbit, and an interactive terminal-style contact section.
+<br>[safwan-portfolio-oglio.netlify.app](https://safwan-portfolio-oglio.netlify.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Tech Stack
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,html,css,mysql,sqlite,cpp,csharp,python,git,github,docker,flutter,vscode)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sfwnbaek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfwnbaek&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🌍 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safwan-io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e63946?style=for-the-badge&logo=netlify&logoColor=white)](https://safwan-portfolio-oglio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msafwan.pro@gmail.com)
+
+</div>
+
+<div align="center">
+
+*"Im Batman."* 🦇
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:e63946,100:1a1a2e&height=100&section=footer)
