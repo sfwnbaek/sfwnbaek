@@ -64,7 +64,7 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,html,css,mysql,sqlite,cpp,cs,python,git,github,docker,flutter,vscode)
+![](https://skillicons.dev/icons?i=php,laravel,js,java,react,spring,nodejs,html,css,mysql,sqlite,postgres,cpp,cs,python,git,github,docker,flutter,vscode)
 
 </div>
 
