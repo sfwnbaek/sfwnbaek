@@ -17,8 +17,8 @@
 <rect width="480" height="230" fill="url(#sGlow)"/>
 <text x="20" y="30" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#9a8080">GITHUB STATS</text>
 <circle cx="96" cy="132" r="60" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="12"/>
-<circle cx="96" cy="132" r="60" fill="none" stroke="url(#sRing)" stroke-width="12" stroke-linecap="round" stroke-dasharray="376.99111843077515" stroke-dashoffset="367.56634047000574" transform="rotate(-90 96 132)"/>
-<text x="96" y="138" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#f5f5f5" text-anchor="middle">50</text>
+<circle cx="96" cy="132" r="60" fill="none" stroke="url(#sRing)" stroke-width="12" stroke-linecap="round" stroke-dasharray="376.99111843077515" stroke-dashoffset="367.3778449107904" transform="rotate(-90 96 132)"/>
+<text x="96" y="138" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#f5f5f5" text-anchor="middle">51</text>
 <text x="96" y="160" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="9.5" fill="#9a8080" text-anchor="middle" letter-spacing="1.2">CONTRIBUTIONS / YR</text>
 
 <circle cx="196" cy="56" r="4" fill="#ff3b3b"/>
