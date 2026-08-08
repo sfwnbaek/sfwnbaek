@@ -62,11 +62,21 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 ### ⚙️ Tech Stack
 
-<div align="center">
+**Languages**
 
-![](https://skillicons.dev/icons?i=php,laravel,js,react,spring,nodejs,html,css,java,postgres,mysql,sqlite,cpp,cs,python,git,github,docker,flutter,vscode)
+![](https://skillicons.dev/icons?i=php,js,html,css,cpp,cs,python)
 
-</div>
+**Frameworks & Libraries**
+
+![](https://skillicons.dev/icons?i=laravel,react,nodejs,flutter)
+
+**Databases**
+
+![](https://skillicons.dev/icons?i=mysql,sqlite)
+
+**Tools & Platforms**
+
+![](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
 ---
 
@@ -74,8 +84,24 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sfwnbaek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfwnbaek&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="230" src="./assets/stats-card.svg" />
+<img height="230" src="./assets/languages-card.svg" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sfwnbaek&bg_color=120826&color=f4ecff&line=ff2ecb&point=8b2fd6&area=true&area_color=8b2fd6&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&theme=tokyonight&hide_border=true" />
 
