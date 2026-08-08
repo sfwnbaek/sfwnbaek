@@ -84,14 +84,14 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
-<img height="230" src="./assets/stats-card.svg" />
-<img height="230" src="./assets/languages-card.svg" />
+<img height="230" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/stats-card.svg" />
+<img height="230" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/languages-card.svg" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sfwnbaek&bg_color=120826&color=f4ecff&line=ff2ecb&point=8b2fd6&area=true&area_color=8b2fd6&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sfwnbaek&bg_color=050505&color=f5f5f5&line=ff3b3b&point=e63946&area=true&area_color=a4161a&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
