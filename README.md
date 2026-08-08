@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e63946&height=220&section=header&text=Muhammad%20Safwan%20Rabe&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:e63946&height=220&section=header&text=Muhammad%20Safwan%20Rabe&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate+%40+UTM;Full-Stack+Developer+(PHP+%26+JavaScript);Building+real+systems+that+solve+real+problems;Currently+exploring+Java+(Framework)+%2F+DevOps+%2F+Python" alt="Typing SVG" />
 
@@ -97,7 +97,7 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&hide_border=true&background=050505&border=ff3b3b&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=ff3b3b&sideLabels=9a8080&dates=9a8080" />
 
 </div>
 
@@ -133,4 +133,4 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:e63946,100:1a1a2e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:e63946,100:050505&height=100&section=footer)
