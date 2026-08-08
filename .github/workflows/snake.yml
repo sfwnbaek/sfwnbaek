@@ -26,7 +26,9 @@ jobs:
       - name: Generate live stat + language cards (black/red theme)
         run: node scripts/generate-cards.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Needs read:user scope, which the default GITHUB_TOKEN does not have.
+          # Create a classic PAT with that scope and save it as the STATS_TOKEN secret.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
 
       - name: Generate black/red snake animation
