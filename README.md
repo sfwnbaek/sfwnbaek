@@ -97,7 +97,11 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-snake.svg" />
+</picture>
 
 </div>
 
