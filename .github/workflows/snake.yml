@@ -18,19 +18,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Generate live stat + language cards (black/red theme)
-        run: node scripts/generate-cards.mjs
-        env:
-          # Needs read:user scope, which the default GITHUB_TOKEN does not have.
-          # Create a classic PAT with that scope and save it as the STATS_TOKEN secret.
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
-          GH_LOGIN: ${{ github.repository_owner }}
-
       - name: Generate black/red snake animation
         uses: Platane/snk/svg-only@v3
         id: snake
@@ -51,4 +38,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "chore: update snake + stat cards [skip ci]"
+          commit_message: "chore: update snake animation [skip ci]"
