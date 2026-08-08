@@ -97,17 +97,21 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-snake.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/github-snake.svg" />
 </picture>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&theme=tokyonight&hide_border=true" />
 
 </div>
 
