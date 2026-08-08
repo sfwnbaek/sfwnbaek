@@ -1,0 +1,62 @@
+<svg width="480" height="235" viewBox="0 0 480 235" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="lBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#050505"/><stop offset="100%" stop-color="#170606"/>
+  </linearGradient>
+  <radialGradient id="lGlow" cx="85%" cy="15%" r="70%">
+    <stop offset="0%" stop-color="#ff3b3b" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#ff3b3b" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="lClip"><rect x="0" y="0" width="480" height="235" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#lClip)">
+<rect width="480" height="235" fill="url(#lBg)"/>
+<rect width="480" height="235" fill="url(#lGlow)"/>
+<text x="20" y="30" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#9a8080">MOST USED LANGUAGES</text>
+<rect x="20" y="48" width="440" height="14" rx="7" fill="rgba(255,255,255,0.06)"/>
+<rect x="20" y="48" width="405.9" height="14" fill="#ff3b3b"/>
+<rect x="425.9157406439901" y="48" width="8.1" height="14" fill="#e63946"/>
+<rect x="433.9930893936196" y="48" width="7.2" height="14" fill="#ff6b6b"/>
+<rect x="441.24059672041193" y="48" width="6.4" height="14" fill="#a4161a"/>
+<rect x="447.59414652731726" y="48" width="5.4" height="14" fill="#c81e1e"/>
+<rect x="453.00955415144625" y="48" width="4.9" height="14" fill="#ff8a80"/>
+<rect x="20" y="48" width="440" height="14" rx="7" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+<circle cx="24" cy="88" r="4" fill="#ff3b3b"/>
+<text x="34" y="92" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f5f5f5">Java</text>
+<rect x="130" y="81" width="290" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+<rect x="130" y="81" width="267.5" height="8" rx="4" fill="#ff3b3b"/>
+<text x="460" y="92" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9a8080" text-anchor="end">92%</text>
+
+<circle cx="24" cy="113" r="4" fill="#e63946"/>
+<text x="34" y="117" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f5f5f5">Blade</text>
+<rect x="130" y="106" width="290" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+<rect x="130" y="106" width="5.3" height="8" rx="4" fill="#e63946"/>
+<text x="460" y="117" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9a8080" text-anchor="end">2%</text>
+
+<circle cx="24" cy="138" r="4" fill="#ff6b6b"/>
+<text x="34" y="142" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f5f5f5">JavaScript</text>
+<rect x="130" y="131" width="290" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+<rect x="130" y="131" width="4.8" height="8" rx="4" fill="#ff6b6b"/>
+<text x="460" y="142" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9a8080" text-anchor="end">2%</text>
+
+<circle cx="24" cy="163" r="4" fill="#a4161a"/>
+<text x="34" y="167" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f5f5f5">TypeScript</text>
+<rect x="130" y="156" width="290" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+<rect x="130" y="156" width="4.2" height="8" rx="4" fill="#a4161a"/>
+<text x="460" y="167" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9a8080" text-anchor="end">1%</text>
+
+<circle cx="24" cy="188" r="4" fill="#c81e1e"/>
+<text x="34" y="192" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f5f5f5">PHP</text>
+<rect x="130" y="181" width="290" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+<rect x="130" y="181" width="3.6" height="8" rx="4" fill="#c81e1e"/>
+<text x="460" y="192" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9a8080" text-anchor="end">1%</text>
+
+<circle cx="24" cy="213" r="4" fill="#ff8a80"/>
+<text x="34" y="217" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f5f5f5">CSS</text>
+<rect x="130" y="206" width="290" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+<rect x="130" y="206" width="3.2" height="8" rx="4" fill="#ff8a80"/>
+<text x="460" y="217" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9a8080" text-anchor="end">1%</text>
+</g>
+<rect x="1" y="1" width="478" height="233" rx="18" fill="none" stroke="rgba(255,59,59,0.32)" stroke-width="1.2"/>
+</svg>
