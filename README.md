@@ -23,40 +23,12 @@ I'm a **Bachelor of Software Engineering (Hons)** graduate from **Universiti Tek
 
 ### 🛠️ Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**🎓 SPIN — Subject Progress Indicator**
-Academic analytics platform for Kolej Tingkatan 6 Tawau, replacing manual Excel tracking with real-time GPMP indicators, 4 role-based dashboards, and automated year-end roll-over.
-<br>`PHP` `SQL` `JavaScript` — 🥈 MIIX 2026 Silver Medal
-
-</td>
-<td width="50%">
-
-**✈️ Crew Scheduling System — Batik Air**
-Full-stack MVC prototype with RESTful APIs replacing manual, spreadsheet-based airline crew rostering. Standby/duty tracking & fatigue analysis across two aircraft fleets.
-<br>`React` `Node.js` `Express` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💍 Wafina Wedding Planner**
-A private full-stack app to plan a wedding — and family life after it — around Malaysian Islamic customs, with automated financial and logistical planning.
-<br>`Laravel 13` `Livewire` `Tailwind` `SQLite` `Docker`
-
-</td>
-<td width="50%">
-
-**🌐 Personal Portfolio**
-A dark space/constellation-themed portfolio with a Frutiger Aero light mode, animated skills orbit, and an interactive terminal-style contact section.
-<br>[safwan-portfolio-oglio.netlify.app](https://safwan-portfolio-oglio.netlify.app/)
-
-</td>
-</tr>
-</table>
+| Project | Description | Language Used |
+|---|---|---|
+| 🎓 **SPIN — Subject Progress Indicator** | Academic analytics platform for Kolej Tingkatan 6 Tawau, replacing manual Excel tracking with real-time GPMP indicators, 4 role-based dashboards, and automated year-end roll-over. 🥈 MIIX 2026 Silver Medal. | `PHP` `SQL` `JavaScript` |
+| ✈️ **Crew Scheduling System — Batik Air** | Full-stack MVC prototype with RESTful APIs replacing manual, spreadsheet-based airline crew rostering. Standby/duty tracking & fatigue analysis across two aircraft fleets. | `React` `Node.js` `Express` `MySQL` |
+| 💍 **Wafina Wedding Planner** | A private full-stack app to plan a wedding — and family life after it — around Malaysian Islamic customs, with automated financial and logistical planning. | `Laravel 13` `Livewire` `Tailwind` `SQLite` `Docker` |
+| 🌐 **[Personal Portfolio](https://safwan-portfolio-oglio.netlify.app/)** | A dark space/constellation-themed portfolio with a Frutiger Aero light mode, animated skills orbit, and an interactive terminal-style contact section. | `HTML` `CSS` `JavaScript` |
 
 ---
 
