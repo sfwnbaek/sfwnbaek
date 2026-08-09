@@ -64,15 +64,15 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=php,js,html,css,cpp,cs,python)
+![](https://skillicons.dev/icons?i=php,js,java,html,css,cpp,cs,python)
 
 **Frameworks & Libraries**
 
-![](https://skillicons.dev/icons?i=laravel,react,nodejs,flutter)
+![](https://skillicons.dev/icons?i=laravel,react,spring,nodejs,flutter)
 
 **Databases**
 
-![](https://skillicons.dev/icons?i=mysql,sqlite)
+![](https://skillicons.dev/icons?i=mysql,sqlite,postgres)
 
 **Tools & Platforms**
 
