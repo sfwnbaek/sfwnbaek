@@ -84,20 +84,13 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 <div align="center">
 
-<img height="230" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/stats-card.svg" />
-<img height="230" src="https://raw.githubusercontent.com/sfwnbaek/sfwnbaek/output/languages-card.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&hide_border=true&background=050505&border=ff3b3b&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=ff3b3b&sideLabels=9a8080&dates=9a8080" />
 
 </div>
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sfwnbaek&bg_color=050505&color=f5f5f5&line=ff3b3b&point=e63946&area=true&area_color=a4161a&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&hide_border=true&background=050505&border=ff3b3b&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=ff3b3b&sideLabels=9a8080&dates=9a8080" />
 
 </div>
 
