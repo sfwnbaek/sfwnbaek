@@ -82,9 +82,9 @@ A dark space/constellation-themed portfolio with a Frutiger Aero light mode, ani
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&hide_border=true&background=050505&border=ff3b3b&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=ff3b3b&sideLabels=9a8080&dates=9a8080" />
+<div align="center"> 
+  
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sfwnbaek&hide_border=true&card_width=800&background=050505&border=ff3b3b&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=ff3b3b&sideLabels=9a8080&dates=9a8080" /> 
 
 </div>
 
