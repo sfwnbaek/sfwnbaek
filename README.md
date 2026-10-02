@@ -15,7 +15,7 @@ I'm a **Bachelor of Software Engineering (Hons)** graduate from **Universiti Tek
 - 🎓 Graduating **UTM** — B. Software Engineering (Hons), GPA 3.46
 - ✈️ Recently interned at **Batik Air Malaysia**, building a full-stack Crew Scheduling System
 - 🥈 **Silver Medalist** — Malaysia Invention & Innovation Expo (MIIX) 2026
-- 🧭 Interested in **Web Development, DevOps, UI/UX & QA**
+- 🧭 Interested in **Web Development, Technical Support (IT), UI/UX & QA**
 - 🌱 Currently exploring Python, Java frameworks, and System Design
 - ✉️ Reach me at **msafwan.pro@gmail.com**
 
